@@ -1,1 +1,2 @@
-This is test file1.
+This is test file1. -- second commit.
+This is the text related to thrid commit.
